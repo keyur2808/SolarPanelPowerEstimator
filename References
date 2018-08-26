@@ -1,0 +1,4 @@
+Steps to calculating power - https://thegrid.rexel.com/en-us/knowledge/energy-efficiency/w/wiki/888/step-02---determine-the-tilt-angle-of-the-array
+                           - https://thegrid.rexel.com/en-us/knowledge/energy-efficiency/w/wiki/70/nasa-atmospheric-science-data-center-solar-power-potential-according-to-location
+
+DataSet used - https://developer.nrel.gov/api/pvwatts/v6.json?api_key=DEMO_KEY&lat=40&lon=-105&system_capacity=10&azimuth=180&tilt=35&array_type=1&module_type=1&losses=15
